@@ -1,0 +1,15 @@
+
+.shopData h2{
+    text-align: center
+}
+
+.shopData .map{
+    height: 400px;
+}
+
+.shopData ul{
+    text-decoration: none;
+    list-style: none;
+    margin-top: 30px;
+}
+

@@ -1,0 +1,38 @@
+h3 {
+    font-family: 'Racing Sans One', cursive;
+    font-size: 8vw;
+}
+
+h4 {
+    font-size: 4vw;
+}
+
+p {
+    font-size: 1vw;
+    text-align: center;
+    padding: 3%;
+}
+
+video {
+    width: 100vw;
+    height: 100vh;
+}
+
+.videoArea {
+    position: sticky;
+    top: 55px;
+    z-index: 1;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.textArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.7);
+    position: sticky;
+    top: 55px;
+    z-index: 2;
+}
